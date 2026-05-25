@@ -74,7 +74,7 @@ genmedia setup --non-interactive --api-key "YOUR_FAL_KEY"
 ### 3. Set up environment variables
 
 ```bash
-cp .env.example .env
+cp env.example .env
 ```
 
 Edit `.env` and fill in your API keys:
