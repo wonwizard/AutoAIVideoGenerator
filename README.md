@@ -128,6 +128,3 @@ Open **http://localhost:5173** in your browser.
 4. Review the storyboard image, then click **Generate Video**
 5. Download the final MP4 when ready
 
-## License
-
-MIT
