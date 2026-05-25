@@ -72,7 +72,7 @@ genmedia setup --non-interactive --api-key "YOUR_FAL_KEY"
 ### 3. 환경 변수 설정
 
 ```bash
-cp .env.example .env
+cp env.example .env
 ```
 
 `.env` 파일을 열어 API 키를 입력합니다:
